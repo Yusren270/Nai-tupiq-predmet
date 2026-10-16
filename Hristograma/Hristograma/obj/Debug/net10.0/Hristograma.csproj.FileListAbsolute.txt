@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\bin\Debug\net10.0\Hristograma.exe
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\bin\Debug\net10.0\Hristograma.deps.json
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\bin\Debug\net10.0\Hristograma.runtimeconfig.json
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\bin\Debug\net10.0\Hristograma.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\bin\Debug\net10.0\Hristograma.dll
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\bin\Debug\net10.0\Hristograma.pdb
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\obj\Debug\net10.0\Hristograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\obj\Debug\net10.0\Hristograma.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\obj\Debug\net10.0\Hristograma.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\obj\Debug\net10.0\Hristograma.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\obj\Debug\net10.0\Hristograma.dll
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\obj\Debug\net10.0\refint\Hristograma.dll
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\obj\Debug\net10.0\Hristograma.pdb
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\obj\Debug\net10.0\Hristograma.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\obj\Debug\net10.0\ref\Hristograma.dll
+C:\Users\ACER\Desktop\Папка по програмиране\Hristograma\Hristograma\obj\Debug\net10.0\Hristogr.745B35C3.Up2Date
